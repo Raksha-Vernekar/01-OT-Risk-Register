@@ -1,0 +1,13 @@
+Asset_ID,Asset_Name,Asset_Type,Criticality,Network_Exposure,Likelihood,Impact
+A001,Packaging PLC,PLC,5,2,3,5
+A002,Line 1 HMI,HMI,4,3,3,4
+A003,SCADA Server,SCADA,5,3,4,5
+A004,Process Historian,Historian,4,3,3,4
+A005,Engineering Workstation,Workstation,5,4,4,5
+A006,OPC UA Gateway,Gateway,4,4,3,4
+A007,OT Core Switch,Network Switch,5,2,2,5
+A008,OT Firewall,Firewall,5,2,2,5
+A009,MES Server,MES,4,3,3,4
+A010,Domain Controller,Server,5,3,3,5
+A011,Vendor Remote Access,Remote Access,5,5,4,5
+A012,Filling Line PLC,PLC,5,2,3,5

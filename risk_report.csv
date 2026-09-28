@@ -1,0 +1,13 @@
+Asset_Name,Asset_Type,Risk_Score,Risk_Level
+SCADA Server,SCADA,20,Critical
+Engineering Workstation,Workstation,20,Critical
+Vendor Remote Access,Remote Access,20,Critical
+Packaging PLC,PLC,15,High
+Domain Controller,Server,15,High
+Filling Line PLC,PLC,15,High
+Line 1 HMI,HMI,12,High
+Process Historian,Historian,12,High
+OPC UA Gateway,Gateway,12,High
+MES Server,MES,12,High
+OT Core Switch,Network Switch,10,High
+OT Firewall,Firewall,10,High
